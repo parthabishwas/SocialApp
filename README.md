@@ -31,7 +31,7 @@ You will be able to know when the project is ready when all the containers compi
 
 When all the containers are built, you will be able to open the application by putting `http://localhost:4200` in your browser.
 ## Getting started
-## ![Login page](https://i.imgur.com/xsfxohn.png)
+
 After opening the app (see [Deployment](#deployment)) click on **New user? Register** to create an account (or sign in with Google).  
 You will be redirected to a registration page. Use false information (just to test):
 - First name: *user*

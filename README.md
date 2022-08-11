@@ -29,7 +29,7 @@ You will be able to know when the project is ready when all the containers compi
 
 *Note: You can see the log of each container clicking on their names on Docker Desktop*
 
-When all the containers are built, you will be able to open the application by putting `http://localhost:4200` in your browser.
+When all the containers are built, you will be able to open the application by putting `http://localhost:8080` in your browser.
 ## Getting started
 
 After opening the app (see [Deployment](#deployment)) click on **New user? Register** to create an account (or sign in with Google).  
